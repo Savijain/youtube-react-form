@@ -19,5 +19,7 @@ Table Name: Registration
    #Developing the form, 
    #Understanding and making connection between form and API.
    #Developing 'CompletePayment' Method
+   
+   
    #Assumption: If the value entered in Payment Amount field is 500, return Payment Successful
                 else, return Payment Unsuccessful
