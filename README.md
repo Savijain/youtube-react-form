@@ -15,9 +15,9 @@ Database: CustomerDB
 Table Name: Registration
 
 #Issues faced
-1. Being new to react js, I faced difficulties:
-   Developing the form, 
-   Understanding and making connection between form and API.
-   Developing 'CompletePayment' Method
-    Assumption: If the value entered in Payment Amount field is 500, return Payment Successful
+1. Being new to react js, I faced difficulties in:
+   #Developing the form, 
+   #Understanding and making connection between form and API.
+   #Developing 'CompletePayment' Method
+   #Assumption: If the value entered in Payment Amount field is 500, return Payment Successful
                 else, return Payment Unsuccessful
