@@ -23,3 +23,9 @@ Table Name: Registration
    
    #Assumption: If the value entered in Payment Amount field is 500, return Payment Successful
                 else, return Payment Unsuccessful
+                
+Github link for backend web api: https://github.com/Savijain/WebAPI-yogaform
+
+Form can be accessed at: 
+
+https://rococo-heliotrope-d368d7.netlify.app/
