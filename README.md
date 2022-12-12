@@ -29,3 +29,6 @@ Github link for backend web api: https://github.com/Savijain/WebAPI-yogaform
 Form can be accessed at: 
 
 https://rococo-heliotrope-d368d7.netlify.app/
+
+ER diagram
+![Yoga class form](https://user-images.githubusercontent.com/81694833/207101591-c474f7d9-8b17-4553-b78a-84b8d44eb128.png)
